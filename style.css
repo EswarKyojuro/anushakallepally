@@ -1,0 +1,35 @@
+*{
+  background:#2ecc71;
+  margin:0;
+  padding:0
+}
+.div{
+  position:absolute;
+  height:auto;
+  width:400px;
+  background:#34495e;
+  border-radius: 40px;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+}
+.search-box{
+  height:40px;
+  background:#34495e;
+  border-radius: 40px;
+  width:350px;
+  outline:none;
+  border:1px #34495e;
+  padding:1rem;
+  font-size:17px;
+  font-family:monospace sans-serif;
+  color:white;
+}
+.search-btn{
+
+  background:#34495e;
+
+  
+
+
+}
